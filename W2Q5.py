@@ -1,0 +1,7 @@
+print("10 + 5 = ", 10+5)
+print("12 * 4 = ", 12*4)
+print("25 - 8 = ", 25-8)
+print("30 / 7 = ", 30/7)
+print("30 % 3 = ", 30%3)
+print("Welcome to the National Art Museum")
+print("Digital exhibits were introduced in 2015")
